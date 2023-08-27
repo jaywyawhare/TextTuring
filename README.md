@@ -1,9 +1,7 @@
 # TextTuring: Distinguishing Human from Machine
 
-<!-- make img centre -->
-
 <p align="center">
-  <img src="image.jpeg" alt="TextTuring" width="500"/>
+  <img src="image.jpeg" alt="TextTuring Logo">
 </p>
 
 ## Overview
@@ -25,6 +23,47 @@ TextTuring's inspiration draws from catching chess cheaters who use AI engines t
 - **Model Evaluation**: The project employs various machine learning techniques to assess text samples against the calculated threshold. This evaluation process results in clear predictions, helping users determine the authenticity of the text.
 
 - **Scalability**: TextTuring is designed with scalability in mind, allowing it to efficiently process vast volumes of text data.
+
+## How to Use
+
+### Installation for Development
+
+1. Clone the repository
+
+    ```bash
+    git clone https://github.com/jaywyawhare/TextTuring
+    ```
+
+1. Install the required packages
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+1. Generate the dataset
+
+    ```bash
+    python3 main.py --generate
+    ```
+
+1. Decide the threshold
+
+    ```bash
+    python3 main.py --threshold
+    ```
+
+1. Go through the juptyer notebook
+
+1. Deploy the web app
+
+    ```bash
+    streamlit run app.py
+    ```
+
+### For Using the web app
+
+- Go to the [web app](https://arinjay.me)
+
 
 ## Contributors
 
