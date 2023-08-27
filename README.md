@@ -62,7 +62,7 @@ TextTuring's inspiration draws from catching chess cheaters who use AI engines t
 
 ### For Using the web app
 
-- Go to the [web app](https://arinjay.me)
+- Go to the [web app](https://turing.streamlit.app/)
 
 
 ## Contributors
