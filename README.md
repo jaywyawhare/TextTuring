@@ -1,7 +1,7 @@
 # TextTuring: Distinguishing Human from Machine
 
 <p align="center">
-  <img src="./Logo.png" alt="TextTuring Logo">
+  <img src="https://drive.google.com/file/d/1uG_fsuvLiabf2IG37zmvhgR787CgbNCA/view?usp=sharing" alt="TextTuring Logo">
 </p>
 
 ## Overview
