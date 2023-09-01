@@ -1,9 +1,5 @@
 # TextTuring: Distinguishing Human from Machine
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1uG_fsuvLiabf2IG37zmvhgR787CgbNCA/view?usp=sharing" alt="TextTuring Logo">
-</p>
-
 ## Overview
 
 TextTuring is an innovative project designed to distinguish human-generated text from machine-generated text. It leverages state-of-the-art natural language processing (NLP) techniques and machine learning models to accomplish this objective. With the ever-increasing generation of AI-generated content, TextTuring offers a powerful solution to identify and verify human-authored text.
